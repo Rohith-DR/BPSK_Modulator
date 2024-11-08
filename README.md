@@ -63,14 +63,14 @@ phase shift, making it better suited to CMOS applications.
 
 
  <p align="center">
-  <img width="800" height="500" src="/Images/input.png">
+  <img width="800" height="500" src="/Images/message_signal.png">
 </p>
 
 ###  carrier signal
 
 
  <p align="center">
-  <img width="800" height="500" src="/Images/input.png">
+  <img width="800" height="500" src="/Images/carrier_signal.png">
 </p>
 
 ###  modulation output
