@@ -1,0 +1,20 @@
+.title KiCad schematic
+R5 GND /b2 1k
+v4 /clk_inv GND pulse
+M6 /out /clk_inv /b2 /b2 eSim_MOS_N
+R4 GND /b1 1k
+R2 GND /in 1k
+v2 /in GND sine
+R3 /net2 vdd 1k
+M2 /net2 /in GND GND eSim_MOS_N
+v5 vdd GND DC
+R1 /net1 vdd 1k
+v1 /vbias GND DC
+M1 /net1 /vbias /in /in eSim_MOS_N
+R6 GND /out 10k
+v3 /clk GND pulse
+M4 vdd /net2 /b2 /b2 eSim_MOS_N
+M3 vdd /net1 /b1 /b1 eSim_MOS_N
+M5 /out /clk /b1 /b1 eSim_MOS_N
+U3 /out plot_v1
+.end
