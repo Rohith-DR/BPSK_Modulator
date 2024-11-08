@@ -1,7 +1,7 @@
 
 
 # BPSK Modulation Design 
-This project simulates the designed BPSK Modulation circuit to determine its performance characterisitics pre-layout and post-layout. 
+This project simulates the designed BPSK Modulation circuit to determine its performance characterisitics pre-layout. 
 
 # Note: This circuit does not work as expected. as of now it is just a simulation of the circuit that i build in esim, it works partially. but still i am uploading this for the sake of hackathon. if possible consider it for evaluation. thanks a lot i have learnt a lot form this hackathon.
 
