@@ -3,8 +3,6 @@
 # BPSK Modulation Design 
 This project simulates the designed BPSK Modulation circuit to determine its performance characterisitics pre-layout. 
 
-# Note: This circuit does not work as expected, as of now it is just a simulation of the circuit that i build in esim. It works partially, but still i am uploading this for the sake of hackathon. If possible consider it for evaluation. thanks a lot i have learnt a lot form this hackathon.
-
 ## BPSK Modulation
 
 Direct-digital modulation is gaining traction for its potential 
